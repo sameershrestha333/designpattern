@@ -1,0 +1,9 @@
+we dont have to change or modify existing code(SorterManager)
+without changing existing code.we just add class not change existing 
+ for example if we want to add new class(Feature)
+ Quick Sort
+ we dont have to change the existing feature
+ just extension add new class without changing the existing code.
+ 
+ do my startegy priciple
+ by inteface rather than enum or abstract class;

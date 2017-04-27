@@ -1,0 +1,4 @@
+We are able to seperate save method from book class. 
+so it gives lose coupling and flexible .
+if we want to return String in save method .
+we dont have to change in book class but we need to change in BookPersistencec clas

@@ -1,0 +1,5 @@
+it is ok but it we want to add Quick sort.
+we need to change in Enum
+and ManagerClass.
+we have to change and modify the existing code
+so this gone a violet the Open Close Principle.
